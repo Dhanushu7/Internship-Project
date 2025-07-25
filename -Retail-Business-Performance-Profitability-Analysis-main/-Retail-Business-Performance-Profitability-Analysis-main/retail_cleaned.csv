@@ -1,0 +1,1001 @@
+category,sub_category,region,season,sales,cost,profit,inventory_days
+Electronics,Accessories,West,Summer,380.79,335.2,45.59,107
+Electronics,Laptops,South,Summer,781.89,577.61,204.28,83
+Electronics,Accessories,South,Winter,108.98,74.51,34.47,117
+Electronics,Accessories,North,Spring,605.1,473.93,131.17,22
+Home & Kitchen,Furniture,West,Winter,65.85,51.94,13.91,30
+Home & Kitchen,Appliances,East,Winter,220.22,126.13,94.09,21
+Toys,Indoor,East,Summer,621.31,462.67,158.64,108
+Clothing,Women,East,Spring,32.83,23.31,9.52,42
+Electronics,Phones,North,Winter,56.2,49.99,6.21,15
+Home & Kitchen,Furniture,North,Winter,461.51,375.7,85.81,51
+Clothing,Kids,East,Winter,388.64,347.17,41.47,3
+Electronics,Phones,South,Winter,861.34,665.06,196.28,73
+Toys,Educational,South,Winter,74.4,65.44,8.96,60
+Clothing,Men,West,Spring,567.66,371.34,196.32,90
+Home & Kitchen,Appliances,North,Winter,106.7,82.55,24.15,111
+Groceries,Beverages,West,Winter,686.43,510.7,175.73,8
+Home & Kitchen,Furniture,South,Autumn,44.04,38.04,6.0,36
+Groceries,Vegetables,West,Autumn,190.41,152.74,37.67,6
+Clothing,Kids,East,Autumn,215.86,156.95,58.91,93
+Toys,Educational,West,Winter,969.89,785.66,184.23,34
+Home & Kitchen,Appliances,South,Winter,401.2,349.31,51.89,95
+Toys,Educational,East,Summer,922.66,493.99,428.67,87
+Groceries,Beverages,South,Summer,525.63,464.9,60.73,85
+Clothing,Kids,West,Summer,394.79,240.25,154.54,53
+Groceries,Snacks,South,Winter,590.88,523.58,67.3,60
+Clothing,Men,North,Spring,547.27,304.48,242.79,15
+Electronics,Phones,South,Autumn,173.61,87.89,85.72,9
+Clothing,Women,South,Summer,774.52,448.82,325.7,88
+Groceries,Vegetables,North,Autumn,23.94,13.87,10.07,8
+Toys,Indoor,West,Winter,731.72,591.6,140.12,5
+Groceries,Vegetables,South,Autumn,927.04,704.95,222.09,28
+Electronics,Accessories,East,Summer,864.47,647.76,216.71,34
+Electronics,Laptops,South,Autumn,104.46,67.72,36.74,62
+Toys,Indoor,West,Autumn,331.93,262.84,69.09,104
+Clothing,Men,West,Summer,281.97,204.29,77.68,99
+Groceries,Snacks,East,Autumn,128.4,100.83,27.57,1
+Clothing,Kids,North,Summer,724.51,430.64,293.87,14
+Electronics,Accessories,South,Spring,498.86,353.74,145.12,15
+Home & Kitchen,Decor,West,Autumn,119.78,80.94,38.84,51
+Home & Kitchen,Appliances,South,Winter,41.11,31.02,10.09,52
+Groceries,Snacks,West,Autumn,567.64,441.74,125.9,101
+Home & Kitchen,Appliances,South,Summer,256.8,170.55,86.25,43
+Groceries,Snacks,South,Winter,211.03,185.1,25.93,71
+Toys,Indoor,North,Spring,296.85,167.57,129.28,66
+Toys,Outdoor,West,Winter,628.11,388.33,239.78,117
+Electronics,Laptops,North,Winter,872.75,716.94,155.81,44
+Clothing,Men,North,Winter,422.34,360.39,61.95,119
+Home & Kitchen,Appliances,South,Spring,897.13,562.68,334.45,97
+Electronics,Phones,North,Summer,279.41,212.09,67.32,116
+Toys,Outdoor,West,Winter,359.04,223.29,135.75,70
+Home & Kitchen,Appliances,West,Summer,515.64,343.91,171.73,37
+Home & Kitchen,Appliances,North,Summer,695.51,422.71,272.8,24
+Home & Kitchen,Furniture,North,Winter,943.48,593.71,349.77,96
+Home & Kitchen,Furniture,South,Autumn,562.52,372.13,190.39,62
+Toys,Educational,North,Summer,972.06,860.25,111.81,39
+Home & Kitchen,Furniture,North,Autumn,502.28,311.59,190.69,113
+Clothing,Women,North,Summer,997.76,605.35,392.41,2
+Home & Kitchen,Furniture,North,Spring,507.65,264.28,243.37,101
+Toys,Outdoor,South,Winter,351.62,265.03,86.59,2
+Home & Kitchen,Appliances,East,Summer,535.63,363.75,171.88,70
+Groceries,Snacks,East,Spring,249.63,191.93,57.7,75
+Toys,Indoor,South,Summer,375.96,224.4,151.56,38
+Home & Kitchen,Decor,South,Spring,374.11,281.68,92.43,70
+Groceries,Vegetables,East,Summer,404.84,334.63,70.21,16
+Home & Kitchen,Appliances,North,Winter,836.95,525.87,311.08,70
+Electronics,Laptops,East,Winter,698.85,589.37,109.48,59
+Home & Kitchen,Decor,East,Autumn,228.04,178.89,49.15,19
+Groceries,Vegetables,South,Autumn,355.18,191.25,163.93,105
+Clothing,Women,North,Winter,694.03,454.38,239.65,82
+Clothing,Kids,East,Autumn,839.33,646.52,192.81,57
+Electronics,Accessories,North,Summer,122.34,106.42,15.92,94
+Electronics,Accessories,North,Autumn,698.83,413.3,285.53,16
+Toys,Educational,North,Spring,819.05,591.42,227.63,60
+Electronics,Laptops,West,Autumn,268.22,241.0,27.22,12
+Electronics,Laptops,North,Spring,562.71,480.02,82.69,119
+Electronics,Laptops,North,Summer,345.64,221.1,124.54,48
+Toys,Indoor,South,Autumn,848.19,714.63,133.56,54
+Toys,Indoor,East,Summer,782.08,591.89,190.19,75
+Toys,Indoor,North,Autumn,936.28,762.26,174.02,104
+Home & Kitchen,Appliances,North,Spring,610.36,307.43,302.93,89
+Clothing,Women,West,Autumn,666.87,334.79,332.08,110
+Groceries,Beverages,East,Autumn,553.25,429.74,123.51,80
+Groceries,Snacks,South,Winter,994.51,567.24,427.27,68
+Electronics,Accessories,North,Autumn,244.88,154.31,90.57,20
+Electronics,Accessories,South,Autumn,372.8,297.37,75.43,67
+Clothing,Women,South,Spring,661.04,480.79,180.25,76
+Clothing,Women,East,Winter,513.73,387.63,126.1,22
+Groceries,Vegetables,West,Spring,251.55,223.68,27.87,109
+Toys,Educational,West,Autumn,491.87,424.21,67.66,27
+Electronics,Accessories,West,Winter,796.86,558.64,238.22,28
+Groceries,Snacks,South,Spring,672.23,568.48,103.75,61
+Electronics,Laptops,East,Autumn,504.2,367.46,136.74,64
+Toys,Indoor,South,Summer,649.02,370.49,278.53,92
+Electronics,Phones,East,Winter,475.25,290.77,184.48,6
+Groceries,Snacks,North,Winter,376.46,190.56,185.9,24
+Electronics,Accessories,East,Winter,337.44,243.33,94.11,95
+Groceries,Snacks,North,Autumn,963.98,810.9,153.08,63
+Toys,Educational,West,Summer,312.64,180.19,132.45,33
+Electronics,Laptops,West,Autumn,323.75,183.82,139.93,25
+Groceries,Snacks,East,Autumn,400.74,335.69,65.05,67
+Home & Kitchen,Decor,West,Winter,574.36,309.51,264.85,32
+Clothing,Kids,South,Autumn,674.43,433.97,240.46,27
+Groceries,Beverages,East,Spring,302.34,190.18,112.16,104
+Clothing,Men,South,Autumn,700.05,546.73,153.32,48
+Clothing,Women,South,Winter,557.29,344.74,212.55,26
+Electronics,Phones,East,Spring,812.01,687.63,124.38,13
+Electronics,Accessories,South,Spring,90.78,45.58,45.2,36
+Electronics,Phones,North,Autumn,800.31,608.22,192.09,110
+Toys,Outdoor,South,Winter,797.83,682.94,114.89,87
+Groceries,Snacks,West,Summer,37.34,27.32,10.02,32
+Toys,Outdoor,South,Summer,582.5,299.62,282.88,25
+Groceries,Snacks,West,Spring,163.49,145.95,17.54,22
+Electronics,Accessories,East,Autumn,594.92,304.72,290.2,52
+Toys,Educational,West,Winter,48.45,30.1,18.35,107
+Groceries,Snacks,West,Winter,135.79,96.26,39.53,53
+Toys,Indoor,West,Autumn,278.83,247.07,31.76,103
+Home & Kitchen,Decor,West,Autumn,94.49,49.2,45.29,116
+Toys,Educational,South,Spring,417.24,325.37,91.87,40
+Groceries,Beverages,West,Summer,728.83,648.91,79.92,106
+Groceries,Snacks,East,Autumn,329.73,269.74,59.99,63
+Electronics,Laptops,North,Spring,439.19,350.31,88.88,90
+Electronics,Laptops,North,Autumn,35.1,31.07,4.03,23
+Groceries,Vegetables,West,Autumn,434.03,336.55,97.48,1
+Groceries,Vegetables,North,Spring,181.56,102.14,79.42,34
+Electronics,Accessories,South,Winter,247.39,132.98,114.41,89
+Home & Kitchen,Furniture,South,Winter,663.6,406.11,257.49,16
+Groceries,Beverages,South,Winter,521.53,397.85,123.68,69
+Clothing,Kids,West,Winter,615.6,411.12,204.48,76
+Clothing,Women,North,Summer,570.38,321.39,248.99,86
+Toys,Outdoor,North,Winter,24.25,13.25,11.0,69
+Electronics,Phones,West,Winter,103.22,64.47,38.75,62
+Groceries,Beverages,South,Spring,706.62,487.33,219.29,90
+Toys,Outdoor,North,Winter,765.73,630.02,135.71,100
+Toys,Indoor,East,Winter,181.47,122.23,59.24,23
+Home & Kitchen,Decor,East,Autumn,57.58,50.65,6.93,100
+Clothing,Women,East,Spring,54.85,35.64,19.21,19
+Toys,Indoor,East,Autumn,508.1,428.12,79.98,69
+Groceries,Beverages,West,Autumn,687.12,512.83,174.29,80
+Electronics,Phones,North,Spring,646.0,329.85,316.15,32
+Toys,Indoor,East,Autumn,940.83,686.98,253.85,50
+Clothing,Kids,South,Autumn,577.63,318.51,259.12,61
+Clothing,Men,South,Spring,550.16,482.26,67.9,67
+Groceries,Snacks,East,Autumn,822.22,625.38,196.84,43
+Home & Kitchen,Appliances,West,Spring,203.83,107.57,96.26,95
+Home & Kitchen,Decor,South,Summer,383.49,197.72,185.77,114
+Home & Kitchen,Appliances,North,Autumn,686.18,362.63,323.55,8
+Clothing,Men,West,Autumn,391.54,302.52,89.02,34
+Groceries,Snacks,West,Autumn,268.09,187.24,80.85,58
+Clothing,Women,East,Summer,699.77,525.93,173.84,29
+Toys,Educational,North,Summer,48.79,32.55,16.24,36
+Clothing,Kids,South,Winter,185.67,148.58,37.09,64
+Clothing,Men,East,Summer,580.17,459.88,120.29,36
+Electronics,Laptops,North,Spring,378.3,306.64,71.66,24
+Clothing,Women,West,Spring,868.45,629.41,239.04,12
+Electronics,Phones,South,Spring,434.7,347.91,86.79,89
+Electronics,Laptops,North,Autumn,245.85,160.07,85.78,113
+Toys,Educational,North,Autumn,510.2,423.76,86.44,86
+Toys,Educational,South,Autumn,304.66,164.51,140.15,100
+Clothing,Kids,West,Winter,20.73,17.87,2.86,76
+Home & Kitchen,Decor,West,Autumn,361.36,318.98,42.38,95
+Clothing,Women,South,Spring,951.1,693.71,257.39,111
+Groceries,Beverages,South,Summer,92.45,49.62,42.83,12
+Electronics,Phones,North,Winter,335.38,257.91,77.47,100
+Home & Kitchen,Decor,North,Summer,946.73,769.24,177.49,39
+Groceries,Beverages,East,Autumn,100.29,69.98,30.31,39
+Toys,Indoor,North,Winter,995.97,520.24,475.73,35
+Toys,Outdoor,North,Autumn,888.83,569.18,319.65,18
+Electronics,Phones,West,Spring,968.97,751.16,217.81,58
+Home & Kitchen,Appliances,South,Winter,622.04,336.18,285.86,7
+Home & Kitchen,Appliances,West,Spring,431.83,254.36,177.47,9
+Electronics,Accessories,East,Spring,823.64,644.5,179.14,5
+Groceries,Beverages,East,Autumn,518.19,307.44,210.75,8
+Toys,Indoor,South,Autumn,380.53,246.68,133.85,116
+Toys,Indoor,East,Summer,244.32,210.87,33.45,45
+Toys,Outdoor,West,Spring,755.84,491.68,264.16,31
+Clothing,Men,North,Winter,486.85,317.03,169.82,39
+Home & Kitchen,Decor,South,Summer,429.98,370.88,59.1,39
+Home & Kitchen,Decor,West,Winter,440.11,264.71,175.4,114
+Toys,Educational,South,Autumn,473.97,247.66,226.31,92
+Toys,Indoor,South,Autumn,769.52,638.02,131.5,39
+Home & Kitchen,Decor,West,Winter,748.58,548.97,199.61,62
+Groceries,Beverages,West,Winter,406.22,280.73,125.49,25
+Clothing,Women,West,Summer,869.91,512.76,357.15,6
+Groceries,Snacks,West,Autumn,804.09,716.57,87.52,45
+Electronics,Laptops,East,Summer,52.73,45.16,7.57,118
+Electronics,Laptops,North,Autumn,925.4,802.92,122.48,36
+Electronics,Laptops,West,Summer,558.32,495.63,62.69,18
+Toys,Outdoor,East,Winter,174.55,102.41,72.14,15
+Clothing,Kids,West,Winter,460.0,345.47,114.53,118
+Groceries,Vegetables,West,Autumn,390.36,310.27,80.09,75
+Electronics,Accessories,West,Summer,288.15,253.62,34.53,72
+Clothing,Kids,West,Autumn,400.58,217.4,183.18,117
+Home & Kitchen,Furniture,West,Spring,284.61,163.72,120.89,90
+Electronics,Accessories,South,Summer,394.39,233.38,161.01,28
+Electronics,Laptops,South,Autumn,86.96,77.37,9.59,64
+Clothing,Women,East,Summer,458.71,235.28,223.43,73
+Electronics,Accessories,East,Spring,316.43,261.22,55.21,92
+Groceries,Snacks,North,Winter,278.25,153.95,124.3,35
+Groceries,Beverages,North,Winter,824.31,725.33,98.98,69
+Toys,Educational,East,Autumn,617.28,411.91,205.37,56
+Clothing,Kids,South,Winter,877.89,632.64,245.25,5
+Electronics,Phones,South,Spring,36.1,23.49,12.61,65
+Clothing,Women,West,Winter,485.57,434.16,51.41,11
+Home & Kitchen,Decor,West,Autumn,598.19,390.23,207.96,86
+Electronics,Phones,West,Autumn,830.87,604.57,226.3,33
+Groceries,Snacks,North,Winter,474.01,315.66,158.35,1
+Toys,Outdoor,West,Summer,23.54,12.48,11.06,92
+Clothing,Men,West,Autumn,814.77,733.2,81.57,102
+Clothing,Women,North,Summer,914.03,670.95,243.08,53
+Groceries,Beverages,South,Spring,945.32,793.94,151.38,17
+Toys,Indoor,East,Winter,248.67,144.73,103.94,1
+Toys,Educational,North,Autumn,954.51,708.69,245.82,62
+Clothing,Kids,West,Summer,879.44,706.01,173.43,34
+Clothing,Women,North,Winter,364.58,198.85,165.73,26
+Electronics,Phones,West,Spring,503.18,347.44,155.74,3
+Toys,Outdoor,North,Summer,524.96,441.42,83.54,54
+Home & Kitchen,Appliances,West,Autumn,968.29,518.39,449.9,57
+Home & Kitchen,Furniture,South,Winter,594.06,411.1,182.96,23
+Toys,Outdoor,West,Winter,757.59,566.77,190.82,66
+Home & Kitchen,Appliances,South,Autumn,806.99,695.03,111.96,64
+Electronics,Phones,North,Summer,24.4,15.62,8.78,98
+Electronics,Accessories,North,Autumn,640.28,462.23,178.05,51
+Groceries,Vegetables,West,Summer,905.12,578.65,326.47,38
+Toys,Indoor,West,Winter,456.4,394.42,61.98,30
+Electronics,Laptops,South,Summer,625.87,528.83,97.04,5
+Clothing,Women,West,Winter,798.51,545.97,252.54,17
+Electronics,Accessories,North,Spring,497.2,299.96,197.24,88
+Groceries,Vegetables,East,Winter,55.4,41.46,13.94,66
+Toys,Indoor,South,Summer,335.46,252.72,82.74,112
+Clothing,Kids,South,Spring,348.15,248.89,99.26,23
+Groceries,Vegetables,West,Summer,136.77,76.7,60.07,118
+Toys,Educational,East,Winter,700.69,400.81,299.88,4
+Electronics,Accessories,North,Winter,352.21,302.45,49.76,67
+Toys,Educational,West,Autumn,520.08,462.48,57.6,61
+Electronics,Laptops,East,Autumn,200.37,103.46,96.91,5
+Groceries,Beverages,West,Autumn,351.63,224.71,126.92,22
+Groceries,Snacks,West,Winter,97.82,53.63,44.19,105
+Home & Kitchen,Decor,South,Summer,362.43,310.85,51.58,49
+Electronics,Phones,East,Summer,508.38,394.58,113.8,73
+Electronics,Laptops,West,Spring,101.37,70.19,31.18,86
+Home & Kitchen,Decor,South,Autumn,90.94,77.25,13.69,63
+Home & Kitchen,Furniture,West,Summer,383.51,192.15,191.36,36
+Groceries,Snacks,North,Summer,808.14,645.95,162.19,52
+Home & Kitchen,Decor,North,Spring,217.26,140.83,76.43,86
+Home & Kitchen,Decor,West,Autumn,243.76,195.98,47.78,78
+Clothing,Kids,North,Winter,467.91,373.85,94.06,14
+Electronics,Accessories,West,Winter,156.26,86.45,69.81,3
+Toys,Educational,North,Winter,896.25,631.56,264.69,111
+Toys,Educational,East,Autumn,40.17,34.02,6.15,38
+Groceries,Beverages,South,Autumn,537.29,320.76,216.53,89
+Clothing,Men,South,Summer,740.03,423.97,316.06,39
+Groceries,Beverages,North,Winter,328.86,192.24,136.62,90
+Electronics,Laptops,East,Winter,539.98,320.36,219.62,13
+Home & Kitchen,Appliances,West,Spring,597.66,461.18,136.48,67
+Electronics,Phones,South,Summer,652.33,451.3,201.03,100
+Clothing,Women,West,Spring,541.74,398.04,143.7,8
+Electronics,Accessories,North,Summer,590.67,428.7,161.97,42
+Toys,Educational,South,Autumn,290.94,187.72,103.22,26
+Groceries,Beverages,West,Autumn,611.48,365.51,245.97,59
+Electronics,Accessories,North,Summer,986.65,732.4,254.25,33
+Home & Kitchen,Appliances,West,Spring,17.46,10.3,7.16,70
+Clothing,Kids,East,Summer,253.5,143.04,110.46,75
+Groceries,Snacks,South,Spring,97.01,79.78,17.23,24
+Home & Kitchen,Appliances,South,Winter,897.8,477.71,420.09,115
+Groceries,Snacks,South,Spring,28.06,21.85,6.21,24
+Clothing,Women,West,Winter,120.92,79.7,41.22,92
+Clothing,Kids,North,Autumn,918.22,461.06,457.16,118
+Groceries,Beverages,North,Autumn,265.32,150.8,114.52,51
+Home & Kitchen,Appliances,North,Winter,822.65,647.74,174.91,75
+Toys,Educational,West,Spring,575.9,352.45,223.45,44
+Electronics,Phones,West,Autumn,213.03,189.0,24.03,68
+Toys,Educational,South,Autumn,431.18,303.14,128.04,113
+Groceries,Vegetables,South,Winter,534.54,418.49,116.05,14
+Home & Kitchen,Appliances,West,Summer,295.74,216.63,79.11,11
+Home & Kitchen,Decor,North,Winter,932.69,585.97,346.72,3
+Toys,Outdoor,East,Spring,61.31,38.91,22.4,10
+Toys,Educational,North,Winter,553.12,398.01,155.11,2
+Home & Kitchen,Appliances,West,Winter,329.13,271.19,57.94,65
+Groceries,Vegetables,East,Autumn,147.44,73.88,73.56,9
+Home & Kitchen,Decor,North,Winter,599.68,412.96,186.72,119
+Home & Kitchen,Furniture,North,Summer,796.35,432.16,364.19,69
+Toys,Educational,South,Autumn,832.31,737.44,94.87,78
+Clothing,Women,West,Autumn,933.61,836.86,96.75,34
+Electronics,Laptops,North,Winter,189.42,99.75,89.67,40
+Electronics,Accessories,South,Winter,724.38,376.13,348.25,93
+Groceries,Snacks,North,Winter,148.37,121.38,26.99,14
+Clothing,Kids,East,Winter,801.54,665.32,136.22,37
+Home & Kitchen,Decor,West,Winter,816.43,625.45,190.98,26
+Groceries,Snacks,West,Winter,908.79,569.34,339.45,42
+Toys,Educational,West,Spring,398.52,329.43,69.09,39
+Toys,Outdoor,West,Spring,716.64,616.22,100.42,38
+Groceries,Snacks,East,Summer,544.38,367.73,176.65,97
+Clothing,Kids,South,Autumn,239.89,206.26,33.63,119
+Groceries,Vegetables,East,Spring,536.54,282.57,253.97,104
+Electronics,Accessories,East,Spring,628.0,343.36,284.64,6
+Home & Kitchen,Appliances,South,Autumn,339.49,268.95,70.54,42
+Electronics,Laptops,North,Winter,147.88,120.91,26.97,29
+Home & Kitchen,Furniture,West,Summer,500.47,398.67,101.8,27
+Electronics,Accessories,North,Summer,790.71,443.33,347.38,97
+Groceries,Snacks,South,Winter,709.91,576.04,133.87,33
+Electronics,Accessories,North,Autumn,43.2,31.45,11.75,10
+Groceries,Snacks,North,Summer,499.04,400.16,98.88,118
+Electronics,Laptops,North,Spring,823.04,447.94,375.1,100
+Clothing,Men,West,Winter,462.43,342.93,119.5,15
+Toys,Indoor,West,Spring,799.32,447.59,351.73,47
+Clothing,Kids,South,Summer,414.87,335.53,79.34,27
+Clothing,Women,East,Summer,644.74,501.34,143.4,36
+Groceries,Vegetables,North,Spring,719.02,531.8,187.22,20
+Toys,Indoor,South,Spring,189.78,163.85,25.93,38
+Home & Kitchen,Appliances,West,Spring,235.08,157.37,77.71,90
+Clothing,Women,North,Autumn,947.81,532.04,415.77,13
+Clothing,Kids,South,Winter,147.73,79.82,67.91,97
+Clothing,Kids,East,Winter,27.93,23.71,4.22,76
+Electronics,Laptops,North,Winter,111.19,96.46,14.73,5
+Electronics,Accessories,South,Spring,923.27,722.82,200.45,106
+Clothing,Kids,East,Winter,773.53,502.62,270.91,9
+Electronics,Phones,West,Winter,429.89,341.58,88.31,40
+Groceries,Snacks,South,Winter,842.04,727.75,114.29,1
+Toys,Educational,West,Summer,122.11,109.16,12.95,110
+Toys,Indoor,East,Winter,194.46,162.37,32.09,1
+Clothing,Men,West,Summer,871.2,616.4,254.8,40
+Toys,Educational,West,Winter,611.82,398.74,213.08,53
+Groceries,Snacks,South,Winter,341.85,280.71,61.14,117
+Home & Kitchen,Decor,West,Autumn,607.68,331.62,276.06,116
+Groceries,Beverages,South,Winter,542.02,470.44,71.58,2
+Home & Kitchen,Furniture,North,Winter,471.04,326.12,144.92,91
+Electronics,Accessories,East,Autumn,457.7,269.97,187.73,108
+Electronics,Laptops,East,Summer,913.62,547.52,366.1,25
+Groceries,Beverages,South,Autumn,503.38,336.04,167.34,88
+Home & Kitchen,Appliances,East,Autumn,318.36,258.57,59.79,107
+Home & Kitchen,Furniture,East,Autumn,635.94,321.3,314.64,85
+Electronics,Laptops,East,Autumn,520.02,462.93,57.09,105
+Home & Kitchen,Appliances,North,Winter,157.18,104.66,52.52,92
+Home & Kitchen,Furniture,South,Summer,539.72,309.68,230.04,71
+Electronics,Accessories,South,Spring,599.43,315.8,283.63,87
+Clothing,Kids,West,Summer,432.52,354.63,77.89,62
+Electronics,Accessories,West,Spring,213.09,122.8,90.29,45
+Toys,Educational,South,Autumn,383.95,320.45,63.5,19
+Home & Kitchen,Decor,South,Autumn,75.05,60.81,14.24,47
+Home & Kitchen,Decor,South,Spring,532.37,380.0,152.37,113
+Electronics,Accessories,North,Spring,406.76,294.44,112.32,63
+Toys,Educational,South,Autumn,111.95,70.95,41.0,55
+Clothing,Women,West,Spring,946.65,614.68,331.97,74
+Clothing,Women,West,Winter,898.46,638.47,259.99,97
+Toys,Outdoor,East,Spring,35.13,19.76,15.37,50
+Clothing,Women,North,Winter,868.32,575.86,292.46,57
+Toys,Indoor,East,Autumn,229.75,136.11,93.64,59
+Toys,Educational,East,Spring,510.45,376.72,133.73,111
+Toys,Educational,South,Autumn,573.75,490.55,83.2,92
+Home & Kitchen,Appliances,South,Autumn,245.8,132.68,113.12,96
+Groceries,Snacks,North,Autumn,988.84,733.01,255.83,46
+Electronics,Phones,East,Autumn,831.92,548.13,283.79,37
+Groceries,Vegetables,East,Summer,149.67,99.16,50.51,55
+Home & Kitchen,Appliances,North,Spring,897.37,453.35,444.02,7
+Groceries,Vegetables,West,Winter,738.55,619.83,118.72,112
+Clothing,Kids,North,Spring,189.62,139.03,50.59,60
+Toys,Indoor,East,Autumn,706.91,610.95,95.96,69
+Toys,Outdoor,North,Autumn,348.4,210.35,138.05,2
+Clothing,Women,East,Winter,369.43,189.77,179.66,20
+Groceries,Beverages,West,Summer,627.91,416.78,211.13,94
+Clothing,Men,West,Spring,369.13,311.7,57.43,99
+Home & Kitchen,Furniture,East,Spring,948.97,764.34,184.63,24
+Toys,Educational,North,Spring,123.1,89.41,33.69,59
+Home & Kitchen,Appliances,South,Autumn,895.61,734.35,161.26,81
+Toys,Indoor,South,Summer,489.93,345.39,144.54,9
+Clothing,Kids,North,Spring,546.22,411.52,134.7,103
+Toys,Educational,East,Winter,225.84,171.19,54.65,110
+Toys,Outdoor,East,Winter,984.56,699.31,285.25,109
+Home & Kitchen,Appliances,North,Winter,694.31,536.89,157.42,70
+Clothing,Kids,East,Spring,915.16,500.68,414.48,100
+Electronics,Laptops,North,Autumn,503.11,265.07,238.04,37
+Toys,Indoor,North,Autumn,654.91,544.82,110.09,87
+Home & Kitchen,Decor,South,Summer,115.51,64.22,51.29,27
+Clothing,Kids,North,Summer,901.02,765.47,135.55,40
+Toys,Outdoor,South,Spring,258.22,194.5,63.72,53
+Clothing,Men,South,Autumn,183.62,158.97,24.65,26
+Groceries,Beverages,South,Summer,410.34,331.7,78.64,46
+Electronics,Accessories,West,Autumn,56.5,32.01,24.49,107
+Electronics,Phones,East,Winter,192.53,103.22,89.31,115
+Home & Kitchen,Decor,West,Spring,252.9,165.83,87.07,40
+Electronics,Accessories,East,Winter,442.82,383.57,59.25,59
+Electronics,Laptops,West,Autumn,304.15,220.98,83.17,98
+Electronics,Laptops,East,Summer,402.68,355.02,47.66,22
+Electronics,Phones,North,Summer,735.25,430.84,304.41,36
+Electronics,Accessories,South,Spring,544.44,307.5,236.94,116
+Electronics,Phones,North,Autumn,60.91,42.55,18.36,109
+Clothing,Kids,South,Autumn,163.13,122.24,40.89,66
+Home & Kitchen,Appliances,North,Winter,115.53,61.24,54.29,17
+Toys,Educational,East,Spring,418.67,327.39,91.28,104
+Groceries,Vegetables,East,Winter,440.48,263.65,176.83,3
+Electronics,Accessories,South,Summer,86.99,43.58,43.41,51
+Groceries,Beverages,North,Winter,279.42,205.68,73.74,19
+Groceries,Beverages,South,Winter,321.45,264.54,56.91,49
+Home & Kitchen,Furniture,West,Summer,145.45,128.01,17.44,55
+Clothing,Women,East,Summer,526.09,281.29,244.8,80
+Electronics,Accessories,East,Winter,874.22,693.16,181.06,21
+Toys,Educational,West,Summer,761.45,601.27,160.18,80
+Clothing,Men,West,Autumn,850.7,510.31,340.39,89
+Toys,Educational,East,Autumn,650.2,505.38,144.82,105
+Groceries,Beverages,South,Spring,944.62,487.21,457.41,10
+Electronics,Phones,West,Autumn,592.38,532.99,59.39,26
+Clothing,Men,South,Winter,572.27,495.7,76.57,14
+Home & Kitchen,Decor,South,Autumn,129.32,102.47,26.85,115
+Groceries,Snacks,North,Spring,925.15,821.92,103.23,87
+Toys,Educational,South,Summer,797.39,636.34,161.05,116
+Toys,Outdoor,East,Winter,846.1,531.05,315.05,106
+Toys,Outdoor,East,Summer,648.1,492.6,155.5,24
+Home & Kitchen,Decor,North,Summer,237.71,130.32,107.39,98
+Toys,Indoor,West,Summer,886.15,631.03,255.12,90
+Groceries,Vegetables,North,Summer,727.52,382.78,344.74,15
+Electronics,Accessories,North,Autumn,805.94,576.54,229.4,86
+Home & Kitchen,Decor,North,Summer,325.56,244.29,81.27,16
+Home & Kitchen,Furniture,North,Summer,432.55,367.96,64.59,66
+Toys,Outdoor,North,Summer,34.16,28.97,5.19,30
+Groceries,Vegetables,North,Winter,10.24,5.88,4.36,18
+Home & Kitchen,Appliances,East,Winter,939.68,770.08,169.6,39
+Toys,Indoor,South,Spring,19.39,10.1,9.29,113
+Electronics,Phones,South,Summer,407.91,282.25,125.66,57
+Toys,Indoor,East,Winter,584.95,356.04,228.91,10
+Clothing,Women,South,Winter,100.78,63.95,36.83,84
+Toys,Educational,North,Spring,740.21,440.8,299.41,3
+Toys,Indoor,West,Winter,472.64,292.47,180.17,114
+Home & Kitchen,Furniture,West,Summer,303.35,180.02,123.33,25
+Clothing,Men,South,Spring,284.49,245.84,38.65,79
+Home & Kitchen,Furniture,West,Autumn,433.5,283.39,150.11,88
+Home & Kitchen,Appliances,South,Summer,133.19,117.55,15.64,37
+Groceries,Vegetables,South,Autumn,788.48,422.44,366.04,70
+Groceries,Snacks,East,Spring,982.51,838.75,143.76,88
+Groceries,Vegetables,West,Spring,472.73,352.36,120.37,25
+Toys,Outdoor,West,Summer,745.92,392.35,353.57,72
+Home & Kitchen,Furniture,West,Spring,943.3,716.77,226.53,117
+Electronics,Laptops,West,Summer,832.34,456.24,376.1,107
+Electronics,Laptops,West,Winter,184.76,108.67,76.09,113
+Clothing,Women,South,Summer,957.7,795.35,162.35,5
+Toys,Outdoor,North,Winter,67.26,59.7,7.56,49
+Home & Kitchen,Appliances,North,Summer,523.08,386.51,136.57,113
+Toys,Outdoor,South,Autumn,182.16,119.95,62.21,50
+Groceries,Vegetables,East,Summer,496.27,445.92,50.35,3
+Toys,Educational,North,Spring,817.67,482.24,335.43,111
+Clothing,Men,North,Autumn,44.52,38.2,6.32,101
+Clothing,Kids,North,Winter,100.57,85.58,14.99,67
+Home & Kitchen,Furniture,South,Spring,280.23,193.55,86.68,67
+Groceries,Vegetables,South,Winter,956.09,807.75,148.34,9
+Groceries,Vegetables,South,Winter,335.76,293.0,42.76,11
+Clothing,Women,North,Winter,96.12,63.76,32.36,79
+Home & Kitchen,Decor,South,Summer,15.03,11.7,3.33,48
+Home & Kitchen,Furniture,East,Winter,500.92,266.7,234.22,60
+Toys,Educational,North,Winter,118.37,101.54,16.83,77
+Clothing,Men,West,Summer,852.69,595.23,257.46,96
+Clothing,Women,South,Summer,520.92,449.35,71.57,67
+Electronics,Phones,South,Summer,354.33,273.26,81.07,91
+Clothing,Women,South,Winter,865.85,687.11,178.74,88
+Toys,Outdoor,West,Autumn,799.45,610.28,189.17,97
+Groceries,Vegetables,North,Summer,165.77,93.52,72.25,13
+Clothing,Kids,South,Spring,838.64,653.29,185.35,42
+Electronics,Phones,North,Winter,114.78,89.48,25.3,60
+Toys,Outdoor,East,Summer,167.02,142.36,24.66,58
+Electronics,Laptops,East,Autumn,470.82,400.96,69.86,42
+Electronics,Accessories,North,Summer,137.58,87.23,50.35,30
+Toys,Educational,South,Summer,909.61,455.21,454.4,2
+Toys,Outdoor,South,Spring,833.81,586.16,247.65,39
+Home & Kitchen,Appliances,East,Winter,201.2,107.37,93.83,27
+Electronics,Phones,West,Spring,981.37,738.7,242.67,95
+Home & Kitchen,Appliances,South,Spring,382.93,192.85,190.08,109
+Home & Kitchen,Decor,North,Spring,782.05,424.49,357.56,30
+Toys,Outdoor,North,Winter,28.24,19.0,9.24,98
+Groceries,Beverages,North,Winter,348.45,262.4,86.05,94
+Electronics,Phones,South,Summer,756.16,616.67,139.49,20
+Clothing,Men,South,Summer,691.01,364.26,326.75,91
+Home & Kitchen,Furniture,South,Autumn,174.71,141.23,33.48,17
+Toys,Educational,South,Spring,586.35,374.3,212.05,90
+Toys,Indoor,East,Autumn,83.95,70.6,13.35,14
+Toys,Outdoor,South,Winter,973.75,864.25,109.5,36
+Groceries,Snacks,West,Summer,651.1,480.35,170.75,76
+Home & Kitchen,Furniture,South,Spring,34.34,17.47,16.87,6
+Clothing,Women,West,Autumn,378.12,312.9,65.22,75
+Toys,Indoor,West,Spring,686.46,465.67,220.79,46
+Toys,Educational,North,Spring,473.85,415.91,57.94,99
+Home & Kitchen,Appliances,West,Winter,456.87,258.34,198.53,119
+Groceries,Beverages,West,Autumn,827.66,512.61,315.05,32
+Toys,Educational,East,Autumn,91.56,70.7,20.86,22
+Electronics,Phones,North,Autumn,140.02,118.63,21.39,108
+Groceries,Vegetables,East,Spring,40.99,32.48,8.51,47
+Home & Kitchen,Appliances,West,Autumn,425.53,321.45,104.08,6
+Electronics,Accessories,South,Autumn,762.49,516.14,246.35,1
+Home & Kitchen,Appliances,East,Summer,327.54,258.68,68.86,34
+Home & Kitchen,Furniture,North,Spring,220.97,113.24,107.73,25
+Clothing,Men,West,Winter,717.77,520.46,197.31,108
+Electronics,Accessories,East,Autumn,478.48,424.54,53.94,46
+Home & Kitchen,Appliances,North,Autumn,211.66,113.55,98.11,8
+Clothing,Men,South,Spring,773.21,647.88,125.33,116
+Home & Kitchen,Decor,East,Summer,27.68,22.66,5.02,44
+Groceries,Vegetables,West,Spring,42.2,36.64,5.56,3
+Clothing,Men,West,Autumn,193.6,132.58,61.02,94
+Groceries,Vegetables,East,Summer,126.14,69.39,56.75,108
+Toys,Indoor,East,Autumn,255.06,184.5,70.56,48
+Groceries,Beverages,South,Spring,496.68,261.1,235.58,118
+Home & Kitchen,Decor,West,Spring,332.67,244.88,87.79,72
+Clothing,Women,East,Summer,317.26,216.4,100.86,72
+Toys,Outdoor,South,Winter,469.95,362.89,107.06,82
+Home & Kitchen,Decor,South,Spring,485.14,359.01,126.13,32
+Toys,Educational,South,Spring,660.41,530.19,130.22,102
+Toys,Educational,East,Summer,908.74,717.64,191.1,51
+Groceries,Beverages,East,Spring,113.88,67.97,45.91,46
+Groceries,Snacks,North,Summer,151.07,105.68,45.39,86
+Toys,Indoor,West,Winter,218.25,139.33,78.92,40
+Home & Kitchen,Appliances,West,Spring,19.67,12.4,7.27,2
+Home & Kitchen,Appliances,West,Spring,538.9,459.69,79.21,30
+Toys,Indoor,East,Autumn,42.87,22.78,20.09,22
+Clothing,Kids,East,Winter,328.87,293.02,35.85,90
+Toys,Outdoor,North,Summer,692.57,568.07,124.5,98
+Clothing,Men,East,Spring,50.77,39.0,11.77,104
+Toys,Educational,North,Autumn,640.07,500.91,139.16,6
+Electronics,Laptops,East,Spring,598.83,447.11,151.72,95
+Clothing,Kids,North,Spring,545.88,427.76,118.12,8
+Toys,Indoor,South,Spring,947.88,711.03,236.85,84
+Electronics,Laptops,North,Autumn,346.06,285.82,60.24,7
+Groceries,Snacks,North,Summer,664.21,479.03,185.18,6
+Home & Kitchen,Furniture,East,Autumn,819.12,557.76,261.36,3
+Toys,Outdoor,East,Winter,50.35,28.48,21.87,14
+Clothing,Men,West,Autumn,90.81,47.6,43.21,87
+Clothing,Women,West,Autumn,653.79,452.23,201.56,115
+Home & Kitchen,Appliances,West,Summer,227.02,202.13,24.89,100
+Home & Kitchen,Furniture,East,Winter,746.84,633.87,112.97,53
+Groceries,Beverages,East,Spring,662.12,463.01,199.11,82
+Groceries,Snacks,North,Spring,30.65,23.33,7.32,37
+Clothing,Men,South,Winter,996.37,886.69,109.68,3
+Electronics,Accessories,North,Autumn,90.71,59.99,30.72,61
+Home & Kitchen,Decor,North,Autumn,81.48,41.74,39.74,97
+Toys,Educational,South,Spring,842.05,479.7,362.35,85
+Home & Kitchen,Decor,North,Winter,729.9,581.79,148.11,20
+Home & Kitchen,Furniture,North,Winter,632.48,502.28,130.2,20
+Home & Kitchen,Decor,South,Spring,509.8,365.69,144.11,51
+Clothing,Kids,North,Spring,582.89,393.71,189.18,117
+Electronics,Phones,South,Autumn,401.56,298.15,103.41,79
+Home & Kitchen,Decor,North,Autumn,901.69,602.95,298.74,42
+Toys,Outdoor,South,Spring,992.21,608.76,383.45,12
+Clothing,Women,South,Summer,390.01,267.67,122.34,21
+Groceries,Beverages,East,Winter,735.78,406.61,329.17,8
+Toys,Educational,East,Spring,411.26,304.64,106.62,42
+Clothing,Women,North,Winter,245.17,217.85,27.32,119
+Clothing,Kids,East,Summer,418.9,221.03,197.87,41
+Home & Kitchen,Appliances,East,Spring,254.76,216.11,38.65,111
+Home & Kitchen,Furniture,South,Summer,596.99,436.86,160.13,84
+Groceries,Vegetables,West,Summer,597.02,337.56,259.46,89
+Toys,Educational,North,Summer,969.72,584.99,384.73,101
+Home & Kitchen,Decor,South,Summer,18.94,13.93,5.01,76
+Toys,Indoor,North,Winter,139.56,123.92,15.64,47
+Toys,Indoor,West,Spring,242.33,206.82,35.51,118
+Toys,Educational,West,Summer,178.06,126.05,52.01,10
+Clothing,Women,North,Summer,672.7,375.57,297.13,5
+Groceries,Vegetables,East,Summer,256.23,191.37,64.86,1
+Groceries,Vegetables,West,Winter,260.0,167.36,92.64,28
+Clothing,Kids,North,Winter,46.3,36.79,9.51,101
+Electronics,Phones,North,Autumn,538.18,437.39,100.79,44
+Toys,Outdoor,North,Summer,451.9,382.17,69.73,6
+Toys,Educational,South,Winter,213.78,116.46,97.32,114
+Clothing,Men,West,Autumn,986.83,541.96,444.87,37
+Toys,Educational,North,Summer,937.24,483.37,453.87,119
+Home & Kitchen,Appliances,South,Autumn,232.45,132.96,99.49,59
+Toys,Educational,East,Spring,322.99,227.03,95.96,78
+Clothing,Women,South,Summer,691.33,455.55,235.78,114
+Home & Kitchen,Furniture,East,Summer,965.47,484.64,480.83,98
+Toys,Indoor,East,Autumn,329.9,293.36,36.54,39
+Electronics,Accessories,South,Autumn,460.19,325.0,135.19,50
+Groceries,Vegetables,West,Winter,349.23,248.97,100.26,23
+Electronics,Accessories,North,Spring,39.67,24.72,14.95,80
+Home & Kitchen,Decor,East,Summer,940.42,745.9,194.52,8
+Electronics,Phones,West,Autumn,970.21,521.55,448.66,8
+Toys,Indoor,East,Summer,164.6,97.74,66.86,111
+Electronics,Laptops,East,Winter,185.38,144.05,41.33,55
+Groceries,Snacks,South,Winter,978.84,635.97,342.87,30
+Home & Kitchen,Furniture,North,Autumn,502.2,375.21,126.99,8
+Home & Kitchen,Furniture,South,Spring,865.96,699.18,166.78,91
+Home & Kitchen,Appliances,North,Summer,931.64,722.78,208.86,33
+Home & Kitchen,Furniture,South,Autumn,604.6,529.84,74.76,14
+Groceries,Beverages,North,Summer,399.93,304.14,95.79,90
+Electronics,Accessories,North,Autumn,355.09,200.17,154.92,64
+Clothing,Women,South,Winter,57.73,51.43,6.3,41
+Groceries,Snacks,North,Summer,993.4,795.68,197.72,117
+Toys,Outdoor,North,Summer,571.35,454.44,116.91,68
+Clothing,Kids,East,Winter,654.01,527.18,126.83,4
+Home & Kitchen,Decor,North,Autumn,670.92,552.26,118.66,82
+Electronics,Phones,North,Winter,879.11,551.09,328.02,109
+Electronics,Phones,East,Summer,819.66,449.24,370.42,54
+Electronics,Phones,West,Spring,652.58,412.01,240.57,65
+Clothing,Kids,South,Spring,372.8,245.48,127.32,21
+Groceries,Snacks,West,Winter,386.62,278.13,108.49,33
+Clothing,Men,North,Autumn,245.17,159.19,85.98,44
+Electronics,Phones,West,Summer,24.52,18.02,6.5,72
+Toys,Indoor,East,Summer,671.53,502.17,169.36,46
+Home & Kitchen,Furniture,West,Autumn,505.44,362.37,143.07,72
+Home & Kitchen,Appliances,North,Autumn,523.89,362.36,161.53,117
+Home & Kitchen,Decor,West,Summer,815.63,443.35,372.28,5
+Toys,Outdoor,West,Spring,404.83,296.36,108.47,44
+Groceries,Vegetables,East,Winter,481.93,316.99,164.94,87
+Toys,Indoor,North,Winter,814.86,641.5,173.36,43
+Clothing,Men,West,Autumn,28.05,16.22,11.83,119
+Groceries,Snacks,South,Spring,897.75,474.47,423.28,15
+Clothing,Men,West,Autumn,251.05,218.62,32.43,15
+Home & Kitchen,Appliances,West,Autumn,205.18,141.92,63.26,19
+Electronics,Phones,South,Winter,110.41,76.66,33.75,112
+Clothing,Kids,West,Summer,527.85,405.41,122.44,29
+Home & Kitchen,Decor,West,Spring,805.0,576.11,228.89,16
+Home & Kitchen,Furniture,East,Winter,98.73,77.71,21.02,2
+Electronics,Phones,West,Autumn,279.9,186.25,93.65,89
+Electronics,Accessories,South,Summer,527.26,289.62,237.64,108
+Clothing,Men,North,Autumn,189.62,134.64,54.98,71
+Home & Kitchen,Furniture,West,Summer,302.33,247.11,55.22,61
+Clothing,Kids,East,Summer,264.0,233.69,30.31,68
+Clothing,Kids,North,Spring,96.17,79.47,16.7,44
+Home & Kitchen,Decor,South,Winter,52.98,39.91,13.07,13
+Electronics,Laptops,South,Summer,605.6,501.24,104.36,86
+Toys,Educational,East,Spring,597.6,488.54,109.06,15
+Home & Kitchen,Furniture,North,Autumn,614.87,408.53,206.34,42
+Electronics,Accessories,West,Winter,901.02,577.89,323.13,26
+Home & Kitchen,Furniture,East,Spring,263.09,163.33,99.76,24
+Home & Kitchen,Furniture,North,Spring,824.39,551.93,272.46,74
+Home & Kitchen,Appliances,North,Winter,811.43,654.55,156.88,74
+Clothing,Men,South,Winter,457.25,335.92,121.33,47
+Clothing,Women,South,Spring,242.88,205.89,36.99,33
+Toys,Educational,North,Winter,224.57,120.88,103.69,48
+Clothing,Women,East,Winter,319.15,188.97,130.18,71
+Toys,Indoor,East,Summer,551.23,326.76,224.47,78
+Groceries,Vegetables,North,Spring,635.7,332.71,302.99,25
+Clothing,Kids,East,Spring,987.91,547.87,440.04,85
+Toys,Educational,South,Summer,679.08,459.8,219.28,39
+Toys,Indoor,South,Spring,727.27,368.24,359.03,24
+Toys,Outdoor,South,Summer,137.11,74.26,62.85,90
+Home & Kitchen,Furniture,South,Summer,343.85,296.47,47.38,109
+Electronics,Accessories,West,Autumn,88.63,47.35,41.28,97
+Groceries,Beverages,East,Autumn,599.79,396.15,203.64,97
+Home & Kitchen,Appliances,West,Autumn,234.39,150.48,83.91,68
+Groceries,Snacks,East,Winter,447.99,373.06,74.93,60
+Toys,Outdoor,North,Autumn,802.35,476.18,326.17,21
+Toys,Indoor,South,Summer,278.44,205.25,73.19,67
+Clothing,Women,South,Autumn,537.63,338.56,199.07,3
+Toys,Educational,West,Autumn,198.42,103.36,95.06,44
+Home & Kitchen,Furniture,East,Autumn,665.22,481.03,184.19,98
+Groceries,Beverages,North,Spring,451.89,286.24,165.65,22
+Toys,Outdoor,East,Winter,566.67,500.4,66.27,77
+Toys,Outdoor,West,Winter,638.61,512.12,126.49,55
+Clothing,Kids,West,Spring,540.47,291.14,249.33,55
+Home & Kitchen,Furniture,West,Winter,758.6,484.77,273.83,12
+Electronics,Laptops,South,Spring,981.42,677.14,304.28,30
+Electronics,Laptops,North,Winter,242.3,159.85,82.45,104
+Electronics,Accessories,South,Autumn,29.83,23.71,6.12,108
+Groceries,Snacks,North,Winter,251.22,193.09,58.13,84
+Home & Kitchen,Furniture,South,Winter,627.35,336.04,291.31,103
+Toys,Indoor,East,Autumn,866.04,643.81,222.23,76
+Groceries,Vegetables,South,Summer,784.21,614.43,169.78,14
+Toys,Outdoor,South,Winter,126.47,74.74,51.73,109
+Electronics,Accessories,East,Spring,366.54,196.12,170.42,91
+Home & Kitchen,Appliances,North,Summer,246.66,173.62,73.04,67
+Home & Kitchen,Decor,East,Winter,403.01,273.6,129.41,68
+Groceries,Snacks,East,Summer,874.6,493.89,380.71,22
+Electronics,Phones,West,Autumn,501.99,450.22,51.77,101
+Toys,Educational,East,Summer,397.13,278.17,118.96,49
+Electronics,Phones,North,Winter,125.2,103.54,21.66,35
+Clothing,Kids,South,Summer,677.56,483.1,194.46,78
+Clothing,Women,East,Summer,807.87,659.23,148.64,52
+Electronics,Laptops,East,Autumn,820.55,516.14,304.41,35
+Electronics,Accessories,North,Spring,181.79,141.43,40.36,82
+Electronics,Laptops,North,Spring,957.75,698.41,259.34,10
+Clothing,Men,North,Autumn,824.26,455.82,368.44,54
+Electronics,Laptops,East,Autumn,320.59,238.05,82.54,65
+Toys,Outdoor,East,Winter,610.19,491.77,118.42,52
+Groceries,Snacks,North,Autumn,507.54,334.7,172.84,25
+Home & Kitchen,Appliances,North,Winter,669.64,367.43,302.21,21
+Electronics,Accessories,South,Spring,35.55,19.7,15.85,68
+Groceries,Vegetables,North,Winter,89.17,72.29,16.88,96
+Toys,Educational,North,Spring,598.35,523.3,75.05,20
+Toys,Indoor,East,Autumn,445.12,241.37,203.75,6
+Electronics,Accessories,South,Winter,10.33,5.24,5.09,2
+Toys,Educational,West,Summer,653.7,366.6,287.1,115
+Home & Kitchen,Furniture,North,Summer,568.8,328.03,240.77,89
+Groceries,Snacks,South,Autumn,67.58,60.68,6.9,31
+Clothing,Women,South,Summer,698.08,623.71,74.37,83
+Home & Kitchen,Furniture,West,Autumn,178.96,94.82,84.14,28
+Clothing,Kids,West,Winter,310.24,167.66,142.58,80
+Electronics,Laptops,South,Summer,694.7,519.09,175.61,4
+Groceries,Snacks,South,Summer,996.73,822.89,173.84,103
+Clothing,Kids,South,Spring,228.59,130.18,98.41,36
+Home & Kitchen,Decor,East,Summer,531.77,356.52,175.25,63
+Home & Kitchen,Appliances,East,Summer,794.17,525.68,268.49,99
+Home & Kitchen,Furniture,South,Winter,374.08,249.01,125.07,14
+Groceries,Beverages,East,Spring,185.12,121.22,63.9,5
+Groceries,Snacks,South,Autumn,20.92,13.94,6.98,91
+Groceries,Snacks,North,Spring,424.39,346.36,78.03,21
+Electronics,Accessories,South,Winter,762.69,423.17,339.52,39
+Electronics,Laptops,East,Spring,622.76,391.97,230.79,90
+Toys,Educational,South,Winter,248.79,221.51,27.28,82
+Clothing,Men,South,Summer,73.97,38.25,35.72,81
+Toys,Outdoor,South,Winter,118.64,85.32,33.32,63
+Toys,Educational,West,Autumn,504.34,305.84,198.5,117
+Toys,Indoor,East,Spring,493.36,276.29,217.07,52
+Groceries,Vegetables,East,Winter,251.04,190.96,60.08,99
+Electronics,Accessories,West,Summer,382.13,251.36,130.77,38
+Electronics,Accessories,North,Winter,398.47,351.65,46.82,113
+Toys,Outdoor,East,Autumn,955.78,778.73,177.05,9
+Toys,Outdoor,North,Winter,943.4,776.94,166.46,48
+Home & Kitchen,Furniture,South,Spring,262.12,219.22,42.9,58
+Clothing,Women,West,Autumn,260.53,211.67,48.86,28
+Home & Kitchen,Furniture,South,Summer,640.83,489.43,151.4,59
+Toys,Outdoor,South,Winter,455.62,269.17,186.45,17
+Electronics,Phones,East,Spring,75.99,53.75,22.24,83
+Electronics,Phones,West,Autumn,114.64,102.64,12.0,87
+Groceries,Vegetables,South,Spring,683.43,353.11,330.32,87
+Toys,Outdoor,South,Summer,719.16,380.32,338.84,24
+Electronics,Laptops,South,Autumn,114.31,58.78,55.53,20
+Home & Kitchen,Furniture,South,Winter,740.13,474.65,265.48,110
+Electronics,Laptops,North,Winter,991.67,880.9,110.77,83
+Clothing,Kids,East,Winter,664.76,381.62,283.14,107
+Clothing,Men,West,Winter,418.01,300.9,117.11,118
+Groceries,Beverages,West,Autumn,766.73,464.65,302.08,38
+Home & Kitchen,Appliances,South,Summer,91.79,64.79,27.0,81
+Groceries,Beverages,North,Winter,302.49,244.32,58.17,25
+Clothing,Women,North,Spring,976.23,748.71,227.52,67
+Home & Kitchen,Appliances,East,Summer,130.17,97.11,33.06,78
+Electronics,Accessories,North,Autumn,78.56,69.44,9.12,119
+Toys,Indoor,South,Winter,51.53,45.73,5.8,21
+Groceries,Vegetables,South,Autumn,133.98,92.41,41.57,2
+Electronics,Laptops,North,Winter,605.86,444.08,161.78,95
+Electronics,Accessories,South,Summer,525.56,392.38,133.18,98
+Groceries,Beverages,South,Winter,136.81,86.92,49.89,40
+Electronics,Phones,South,Autumn,602.55,324.17,278.38,104
+Groceries,Vegetables,South,Autumn,437.76,295.82,141.94,89
+Clothing,Women,East,Winter,172.05,104.87,67.18,84
+Toys,Outdoor,West,Summer,130.29,75.44,54.85,46
+Toys,Educational,North,Autumn,22.59,20.26,2.33,32
+Clothing,Women,East,Winter,323.75,275.74,48.01,12
+Electronics,Phones,East,Autumn,919.74,552.67,367.07,13
+Home & Kitchen,Appliances,South,Summer,228.85,203.99,24.86,46
+Electronics,Phones,West,Spring,731.21,592.7,138.51,108
+Electronics,Laptops,North,Spring,63.32,39.77,23.55,22
+Electronics,Accessories,East,Spring,984.82,861.67,123.15,29
+Groceries,Vegetables,South,Autumn,730.67,396.88,333.79,85
+Clothing,Kids,South,Autumn,728.72,602.73,125.99,95
+Toys,Outdoor,West,Autumn,493.51,276.5,217.01,44
+Toys,Educational,South,Autumn,735.47,527.25,208.22,61
+Groceries,Vegetables,North,Summer,745.99,555.6,190.39,118
+Clothing,Men,North,Spring,569.37,441.58,127.79,39
+Groceries,Vegetables,North,Summer,581.4,494.69,86.71,101
+Groceries,Vegetables,East,Winter,168.47,115.34,53.13,16
+Toys,Educational,West,Autumn,813.63,648.21,165.42,3
+Home & Kitchen,Decor,South,Winter,991.89,535.29,456.6,96
+Clothing,Women,South,Autumn,881.02,672.24,208.78,89
+Clothing,Men,South,Winter,559.53,443.84,115.69,103
+Clothing,Kids,South,Spring,618.83,479.69,139.14,112
+Toys,Outdoor,West,Autumn,785.95,567.21,218.74,86
+Clothing,Men,North,Summer,849.57,710.23,139.34,12
+Toys,Outdoor,East,Autumn,748.28,434.74,313.54,34
+Groceries,Vegetables,East,Summer,761.09,587.07,174.02,16
+Groceries,Vegetables,East,Summer,157.4,97.94,59.46,56
+Clothing,Kids,South,Summer,507.03,278.81,228.22,111
+Toys,Outdoor,East,Winter,454.12,358.22,95.9,24
+Toys,Outdoor,South,Summer,225.04,124.93,100.11,102
+Home & Kitchen,Furniture,East,Autumn,418.5,325.7,92.8,21
+Toys,Indoor,South,Autumn,38.78,21.98,16.8,60
+Clothing,Women,South,Autumn,796.26,427.75,368.51,119
+Toys,Indoor,East,Spring,875.52,616.4,259.12,3
+Home & Kitchen,Furniture,North,Summer,74.21,54.32,19.89,55
+Clothing,Kids,West,Summer,705.91,367.86,338.05,24
+Toys,Indoor,South,Spring,679.7,558.71,120.99,31
+Electronics,Laptops,South,Spring,32.7,20.56,12.14,63
+Toys,Indoor,North,Spring,86.29,45.17,41.12,109
+Groceries,Snacks,South,Spring,748.47,668.22,80.25,117
+Electronics,Laptops,South,Autumn,790.73,558.97,231.76,48
+Clothing,Men,West,Summer,379.73,208.45,171.28,113
+Toys,Indoor,East,Autumn,439.68,235.42,204.26,116
+Groceries,Vegetables,North,Spring,71.92,59.01,12.91,47
+Home & Kitchen,Decor,East,Autumn,998.36,871.81,126.55,45
+Electronics,Laptops,East,Spring,181.75,137.23,44.52,20
+Home & Kitchen,Decor,West,Winter,787.8,431.19,356.61,70
+Groceries,Beverages,North,Spring,991.22,791.87,199.35,103
+Home & Kitchen,Appliances,North,Autumn,576.15,423.53,152.62,116
+Home & Kitchen,Decor,East,Autumn,368.61,233.63,134.98,77
+Groceries,Snacks,East,Summer,703.25,516.41,186.84,118
+Home & Kitchen,Decor,West,Winter,280.34,198.27,82.07,109
+Home & Kitchen,Decor,West,Autumn,784.76,410.0,374.76,35
+Groceries,Beverages,South,Spring,435.36,369.66,65.7,93
+Toys,Outdoor,South,Spring,467.12,323.42,143.7,21
+Clothing,Women,West,Spring,463.61,321.37,142.24,70
+Toys,Educational,North,Summer,634.86,330.09,304.77,39
+Clothing,Kids,East,Autumn,501.5,338.38,163.12,57
+Clothing,Women,West,Summer,16.96,8.87,8.09,46
+Toys,Educational,West,Summer,614.12,340.31,273.81,31
+Groceries,Vegetables,West,Autumn,923.4,636.06,287.34,85
+Clothing,Kids,West,Winter,78.27,40.92,37.35,30
+Clothing,Men,East,Winter,45.92,28.02,17.9,55
+Electronics,Phones,North,Spring,907.19,544.15,363.04,80
+Home & Kitchen,Decor,East,Winter,377.5,253.51,123.99,89
+Toys,Outdoor,North,Winter,778.94,409.84,369.1,45
+Clothing,Kids,South,Winter,854.56,443.18,411.38,82
+Clothing,Kids,South,Winter,907.37,504.22,403.15,68
+Clothing,Kids,East,Spring,322.04,260.45,61.59,70
+Groceries,Vegetables,West,Autumn,900.84,458.28,442.56,75
+Clothing,Women,South,Winter,963.76,697.83,265.93,71
+Toys,Outdoor,West,Winter,399.51,332.05,67.46,14
+Clothing,Men,East,Summer,733.51,654.67,78.84,82
+Groceries,Vegetables,North,Summer,153.52,121.29,32.23,37
+Groceries,Beverages,North,Autumn,569.68,390.56,179.12,89
+Toys,Outdoor,West,Spring,947.57,840.44,107.13,61
+Groceries,Vegetables,South,Autumn,122.95,68.91,54.04,68
+Home & Kitchen,Furniture,South,Spring,423.81,226.97,196.84,86
+Toys,Educational,West,Summer,565.61,401.22,164.39,61
+Home & Kitchen,Decor,North,Spring,235.14,155.57,79.57,43
+Electronics,Accessories,East,Summer,76.99,60.29,16.7,17
+Groceries,Vegetables,West,Summer,616.77,364.18,252.59,98
+Home & Kitchen,Furniture,South,Autumn,489.85,277.41,212.44,2
+Toys,Outdoor,West,Summer,667.55,391.48,276.07,74
+Clothing,Women,East,Autumn,467.67,310.86,156.81,39
+Groceries,Vegetables,North,Summer,549.98,288.69,261.29,40
+Clothing,Men,East,Spring,120.82,77.61,43.21,99
+Electronics,Accessories,East,Spring,61.44,50.04,11.4,64
+Clothing,Kids,North,Summer,346.38,294.03,52.35,26
+Home & Kitchen,Decor,North,Winter,336.91,270.44,66.47,86
+Clothing,Men,North,Winter,27.77,15.29,12.48,79
+Toys,Indoor,South,Autumn,880.79,747.11,133.68,27
+Electronics,Laptops,South,Winter,947.17,685.82,261.35,28
+Groceries,Snacks,West,Spring,774.29,395.56,378.73,25
+Toys,Indoor,North,Spring,103.21,65.79,37.42,44
+Electronics,Laptops,North,Winter,543.31,379.84,163.47,6
+Electronics,Accessories,East,Winter,378.21,257.44,120.77,50
+Home & Kitchen,Furniture,North,Winter,102.47,69.31,33.16,11
+Groceries,Snacks,East,Summer,211.73,150.19,61.54,24
+Toys,Indoor,West,Autumn,363.1,291.57,71.53,101
+Toys,Educational,West,Summer,638.24,522.82,115.42,47
+Clothing,Men,East,Spring,203.88,175.09,28.79,82
+Groceries,Vegetables,North,Spring,166.38,129.5,36.88,12
+Home & Kitchen,Decor,East,Summer,174.37,129.97,44.4,109
+Electronics,Accessories,West,Winter,907.08,554.01,353.07,40
+Groceries,Snacks,South,Autumn,511.98,378.48,133.5,119
+Home & Kitchen,Decor,West,Autumn,192.38,164.98,27.4,48
+Clothing,Women,East,Autumn,160.58,108.57,52.01,70
+Toys,Outdoor,West,Summer,968.08,815.85,152.23,9
+Groceries,Snacks,East,Spring,805.57,565.58,239.99,16
+Groceries,Vegetables,North,Summer,988.53,686.18,302.35,117
+Home & Kitchen,Appliances,North,Winter,671.24,506.03,165.21,4
+Toys,Outdoor,East,Autumn,997.11,889.34,107.77,59
+Home & Kitchen,Decor,South,Autumn,170.61,86.17,84.44,25
+Clothing,Kids,East,Summer,102.1,52.25,49.85,20
+Home & Kitchen,Appliances,North,Winter,891.36,473.99,417.37,5
+Toys,Outdoor,West,Autumn,973.72,618.06,355.66,9
+Home & Kitchen,Appliances,East,Winter,820.87,588.0,232.87,83
+Toys,Outdoor,North,Winter,761.99,682.15,79.84,66
+Groceries,Vegetables,West,Spring,823.42,562.98,260.44,85
+Electronics,Laptops,West,Spring,261.78,216.68,45.1,76
+Groceries,Beverages,South,Autumn,341.86,194.69,147.17,21
+Clothing,Kids,North,Summer,121.81,65.15,56.66,33
+Clothing,Men,South,Autumn,247.48,137.79,109.69,41
+Groceries,Beverages,West,Autumn,742.27,427.92,314.35,75
+Groceries,Beverages,North,Spring,654.64,489.91,164.73,22
+Clothing,Men,East,Summer,740.69,609.2,131.49,94
+Clothing,Women,East,Autumn,979.31,738.06,241.25,84
+Electronics,Laptops,West,Summer,741.9,402.51,339.39,99
+Groceries,Vegetables,East,Spring,689.46,363.94,325.52,39
+Toys,Indoor,West,Autumn,175.46,133.72,41.74,1
+Toys,Outdoor,East,Spring,838.67,513.02,325.65,63
+Electronics,Accessories,East,Autumn,346.98,293.74,53.24,47
+Electronics,Accessories,South,Autumn,312.26,182.69,129.57,99
+Clothing,Men,East,Spring,765.52,507.79,257.73,116
+Groceries,Beverages,East,Spring,938.92,796.66,142.26,39
+Electronics,Laptops,North,Summer,809.32,423.79,385.53,79
+Electronics,Phones,West,Winter,267.68,230.98,36.7,91
+Electronics,Phones,East,Autumn,564.84,307.5,257.34,46
+Home & Kitchen,Decor,North,Spring,465.75,393.94,71.81,72
+Clothing,Men,North,Spring,137.56,91.49,46.07,78
+Clothing,Men,East,Spring,484.28,245.63,238.65,40
+Electronics,Laptops,North,Summer,742.51,643.93,98.58,87
+Electronics,Laptops,South,Winter,136.18,106.64,29.54,110
+Home & Kitchen,Furniture,North,Autumn,911.66,730.77,180.89,73
+Toys,Indoor,West,Summer,841.07,750.84,90.23,78
+Home & Kitchen,Appliances,North,Spring,729.4,453.61,275.79,119
+Groceries,Vegetables,North,Spring,537.35,405.18,132.17,116
+Toys,Outdoor,West,Spring,121.45,94.91,26.54,61
+Groceries,Beverages,North,Spring,77.66,47.01,30.65,9
+Clothing,Men,South,Summer,22.28,15.32,6.96,89
+Toys,Educational,North,Summer,826.29,437.68,388.61,105
+Clothing,Men,East,Winter,306.92,244.7,62.22,68
+Home & Kitchen,Decor,West,Winter,73.85,62.84,11.01,2
+Groceries,Vegetables,North,Spring,671.13,494.82,176.31,41
+Groceries,Beverages,North,Winter,989.14,742.32,246.82,16
+Electronics,Accessories,North,Autumn,247.12,202.1,45.02,30
+Groceries,Beverages,North,Autumn,434.89,264.03,170.86,110
+Home & Kitchen,Furniture,West,Winter,857.14,607.35,249.79,69
+Toys,Educational,North,Autumn,259.78,152.77,107.01,44
+Electronics,Phones,East,Winter,123.78,66.54,57.24,61
+Clothing,Kids,North,Autumn,42.32,35.86,6.46,98
+Toys,Educational,East,Autumn,880.19,641.4,238.79,45
+Home & Kitchen,Furniture,North,Autumn,697.51,371.69,325.82,54
+Home & Kitchen,Appliances,North,Winter,440.25,356.41,83.84,105
+Toys,Educational,South,Autumn,347.41,196.61,150.8,22
+Clothing,Kids,North,Winter,611.02,459.81,151.21,20
+Electronics,Phones,North,Winter,790.91,597.8,193.11,55
+Groceries,Beverages,East,Summer,517.24,280.18,237.06,22
+Toys,Indoor,East,Winter,788.88,700.77,88.11,108
+Electronics,Phones,West,Autumn,951.03,704.01,247.02,55
+Toys,Outdoor,South,Summer,984.0,597.86,386.14,38
+Home & Kitchen,Furniture,South,Summer,80.22,48.27,31.95,17
+Toys,Outdoor,South,Autumn,49.37,36.61,12.76,27
+Groceries,Snacks,North,Spring,148.62,90.77,57.85,65
+Toys,Outdoor,South,Summer,455.96,314.24,141.72,99
+Home & Kitchen,Furniture,West,Spring,204.14,151.94,52.2,109
+Groceries,Vegetables,East,Winter,479.55,353.12,126.43,61
+Groceries,Snacks,West,Spring,15.45,7.77,7.68,62
+Toys,Outdoor,North,Spring,834.98,699.35,135.63,97
+Groceries,Snacks,West,Winter,345.47,283.64,61.83,49
+Groceries,Beverages,South,Winter,226.32,149.08,77.24,54
+Electronics,Phones,East,Winter,932.44,614.3,318.14,37
+Clothing,Women,North,Winter,291.72,241.33,50.39,21
+Electronics,Phones,East,Spring,351.77,247.28,104.49,41
+Home & Kitchen,Decor,West,Winter,39.37,30.32,9.05,110
+Toys,Outdoor,West,Autumn,992.89,548.67,444.22,46
+Groceries,Snacks,East,Winter,173.55,113.84,59.71,19
+Clothing,Women,East,Summer,416.91,359.81,57.1,117
+Clothing,Men,South,Spring,265.59,204.46,61.13,33
+Groceries,Snacks,North,Spring,825.55,728.16,97.39,69
+Groceries,Vegetables,West,Autumn,11.55,8.72,2.83,87
+Clothing,Kids,North,Winter,720.4,599.25,121.15,49
+Home & Kitchen,Appliances,North,Spring,607.76,470.79,136.97,66
+Groceries,Beverages,West,Summer,668.64,548.38,120.26,36
+Home & Kitchen,Appliances,West,Summer,375.36,205.85,169.51,28
+Electronics,Phones,South,Spring,554.09,476.59,77.5,76
+Home & Kitchen,Decor,West,Winter,89.38,57.37,32.01,39
+Home & Kitchen,Decor,East,Spring,418.55,317.44,101.11,74
+Electronics,Laptops,West,Winter,368.3,271.61,96.69,10
+Toys,Indoor,West,Summer,507.13,281.74,225.39,73
+Groceries,Vegetables,West,Autumn,616.45,523.66,92.79,84
+Clothing,Men,East,Summer,641.5,510.89,130.61,93
+Clothing,Women,West,Autumn,75.78,54.08,21.7,40
+Groceries,Snacks,West,Summer,821.81,639.33,182.48,12
+Clothing,Kids,North,Autumn,302.09,209.77,92.32,45
+Electronics,Laptops,South,Summer,405.38,350.27,55.11,62
+Groceries,Snacks,North,Summer,563.06,358.82,204.24,23
+Toys,Educational,North,Summer,818.56,431.34,387.22,21
+Clothing,Men,North,Autumn,695.57,467.4,228.17,99
+Home & Kitchen,Furniture,West,Spring,86.84,62.27,24.57,102
+Groceries,Snacks,East,Summer,791.1,536.81,254.29,98
+Groceries,Beverages,South,Spring,390.4,265.49,124.91,44
+Toys,Indoor,North,Summer,917.47,616.9,300.57,104
+Clothing,Men,North,Spring,890.76,449.77,440.99,57
+Electronics,Laptops,North,Autumn,37.15,24.41,12.74,24
+Electronics,Phones,South,Autumn,380.81,215.82,164.99,37
+Home & Kitchen,Decor,South,Spring,649.28,336.27,313.01,65
+Home & Kitchen,Furniture,North,Summer,352.42,197.98,154.44,29
+Clothing,Men,West,Summer,522.07,340.16,181.91,35
+Home & Kitchen,Furniture,West,Winter,347.2,183.56,163.64,11
+Toys,Outdoor,West,Spring,318.11,245.21,72.9,69
+Toys,Indoor,West,Autumn,535.77,448.27,87.5,56
+Clothing,Men,West,Spring,988.16,673.53,314.63,4
+Groceries,Vegetables,North,Winter,175.69,156.16,19.53,30
+Home & Kitchen,Appliances,North,Autumn,37.26,26.16,11.1,75
+Toys,Educational,West,Spring,144.43,77.95,66.48,46
+Toys,Outdoor,South,Spring,40.65,26.63,14.02,106
+Groceries,Beverages,West,Summer,401.48,251.04,150.44,15
+Groceries,Vegetables,East,Autumn,492.97,272.13,220.84,37
+Groceries,Beverages,West,Autumn,956.36,598.29,358.07,87
+Toys,Educational,West,Summer,449.69,403.8,45.89,73
+Clothing,Women,South,Autumn,984.17,605.62,378.55,47
+Toys,Indoor,East,Winter,160.07,82.02,78.05,96
+Toys,Indoor,South,Autumn,346.98,248.63,98.35,37
+Electronics,Phones,North,Winter,483.1,344.4,138.7,109
+Groceries,Snacks,South,Winter,764.28,637.0,127.28,51
+Groceries,Snacks,East,Winter,362.62,301.24,61.38,109
+Electronics,Accessories,North,Autumn,202.68,106.01,96.67,46
+Toys,Indoor,South,Autumn,680.61,404.29,276.32,11
+Groceries,Vegetables,West,Autumn,562.13,359.15,202.98,92
+Home & Kitchen,Decor,South,Summer,587.15,528.37,58.78,13
+Toys,Outdoor,North,Summer,629.97,438.18,191.79,51
+Electronics,Accessories,East,Autumn,784.56,622.81,161.75,82
+Toys,Outdoor,West,Spring,627.17,456.42,170.75,19
+Electronics,Laptops,North,Autumn,209.3,137.73,71.57,28
+Toys,Outdoor,South,Winter,854.03,669.86,184.17,118
+Electronics,Accessories,East,Autumn,235.47,208.53,26.94,117
+Groceries,Beverages,South,Winter,603.13,386.84,216.29,47
+Toys,Outdoor,West,Spring,871.27,481.17,390.1,11
+Electronics,Phones,East,Summer,553.83,289.71,264.12,56
+Toys,Outdoor,West,Spring,283.01,240.8,42.21,12
+Groceries,Vegetables,West,Autumn,969.91,853.18,116.73,26
+Clothing,Kids,North,Spring,981.18,680.31,300.87,96
+Home & Kitchen,Appliances,West,Autumn,497.01,308.63,188.38,100
+Groceries,Snacks,South,Autumn,292.93,170.28,122.65,88
+Clothing,Kids,North,Summer,446.81,331.67,115.14,64
+Home & Kitchen,Appliances,North,Spring,497.4,363.56,133.84,51
+Clothing,Men,South,Spring,895.51,611.09,284.42,92
+Electronics,Laptops,West,Summer,829.24,668.21,161.03,4
+Toys,Educational,South,Autumn,808.52,558.36,250.16,73
+Groceries,Snacks,South,Spring,68.88,34.53,34.35,81
+Electronics,Laptops,South,Spring,848.5,727.36,121.14,19
+Electronics,Phones,West,Autumn,318.78,192.04,126.74,69
+Toys,Indoor,South,Winter,515.33,386.83,128.5,31
+Toys,Outdoor,South,Summer,736.69,593.06,143.63,22
+Electronics,Laptops,West,Autumn,690.84,545.13,145.71,54
+Clothing,Men,West,Winter,531.95,400.57,131.38,21
+Toys,Educational,East,Autumn,365.13,300.05,65.08,24
+Toys,Indoor,East,Winter,735.72,523.41,212.31,94
+Clothing,Men,East,Spring,18.77,16.88,1.89,8
+Groceries,Vegetables,West,Spring,994.7,533.08,461.62,30
+Electronics,Phones,North,Winter,24.17,19.22,4.95,25
